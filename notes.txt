@@ -1,0 +1,21 @@
+WebScrapping Techniques:
+
+1. Cheerio
+
+[Pega os dados crus da página: HTML]
+
+Consome pouca memória
+Rápida resposta
+
+
+2. Puppeteer
+
+[Simula o comportamento de um browser, abre a página e espera o conteúdo ser injetado]
+
+[Puppeteer is a Node.js lib which provides a high-level API to control Chrome/Chromium over
+ the DevTools Protocol]
+
+[Puppeteer runs in headless mode by default]
+
+Mais complexa
+Consome mais memória
